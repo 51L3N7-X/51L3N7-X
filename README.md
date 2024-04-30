@@ -17,6 +17,7 @@ I'm a self-taught fullstack developer with a fluency in Arabic and English, and 
   <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" height="40" width="40" /></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="40" width="40" /></a>&nbsp;
   <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" width="40" /></a>&nbsp;
+  <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="40" /></a>&nbsp;
   <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" height="40" width="40" /></a>&nbsp;
   <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" width="40" /></a>&nbsp;
   <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" height="40" width="40" /></a>&nbsp;
